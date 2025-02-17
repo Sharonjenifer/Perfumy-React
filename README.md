@@ -7,18 +7,27 @@ You can access my website by visiting (https://perfumy-react-rosy.vercel.app/).
 
 # Features #
 ✅ Responsive and user-friendly UI
+
 ✅ Displays perfume products with images and descriptions
+
 ✅ Simple and clean React components
+
 ✅ Styled using CSS
 
 # Project Structure #
 /perfumy
+
 │── /src
+
 │   │── /assets/images  # Perfume images
 
 │   │── /components     # React components
 │   │── App.js
+
 │   │── index.js
+
 │   │── style.css
+
 │── package.json
+
 │── README.md
