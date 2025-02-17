@@ -1,7 +1,7 @@
 # Perfumy - A Simple Perfume Web Page #
 Perfumy is a small, elegant web page built using React to showcase different perfume products. It features a navigation bar, a search bar, and a product display section.
 
-How to view:
+# How to view: #
 
 You can access my website by visiting (https://perfumy-react-rosy.vercel.app/).
 
@@ -22,6 +22,7 @@ You can access my website by visiting (https://perfumy-react-rosy.vercel.app/).
 │   │── /assets/images  # Perfume images
 
 │   │── /components     # React components
+
 │   │── App.js
 
 │   │── index.js
@@ -30,4 +31,4 @@ You can access my website by visiting (https://perfumy-react-rosy.vercel.app/).
 
 │── package.json
 
-│── README.md
+│── .gitignore
